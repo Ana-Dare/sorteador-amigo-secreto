@@ -11,7 +11,7 @@ describe("Testes com o componente formulário", () => {
       </RecoilRoot>
     );
     const input = screen.getByPlaceholderText(
-      "Inisira os nomes dos participantes"
+      "Insira os nomes dos participantes"
     );
 
     const botao = screen.getByRole("button");
@@ -27,7 +27,7 @@ describe("Testes com o componente formulário", () => {
       </RecoilRoot>
     );
     const input = screen.getByPlaceholderText(
-      "Inisira os nomes dos participantes"
+      "Insira os nomes dos participantes"
     );
 
     const botao = screen.getByRole("button");
@@ -51,7 +51,7 @@ describe("Testes com o componente formulário", () => {
       </RecoilRoot>
     );
     const input = screen.getByPlaceholderText(
-      "Inisira os nomes dos participantes"
+      "Insira os nomes dos participantes"
     );
 
     const botao = screen.getByRole("button");
@@ -87,7 +87,7 @@ describe("Testes com o componente formulário", () => {
       </RecoilRoot>
     );
     const input = screen.getByPlaceholderText(
-      "Inisira os nomes dos participantes"
+      "Insira os nomes dos participantes"
     );
 
     const botao = screen.getByRole("button");
